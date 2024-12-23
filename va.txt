@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 how are you
+=======
+hi
+>>>>>>> 85ad7d91e86850b795c30cedb652721fa3eee2e0
 =======
 hi
 >>>>>>> 85ad7d91e86850b795c30cedb652721fa3eee2e0
